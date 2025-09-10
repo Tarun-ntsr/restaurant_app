@@ -1,0 +1,37 @@
+﻿.order {
+    max-width: 600px;
+    margin: 3rem auto;
+    padding: 2rem;
+    background: linear-gradient(135deg, #c8e6c9, #ffffff);
+    border-radius: 16px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+    .order h2 {
+        margin-bottom: 1rem;
+        font-size: 2rem;
+        color: #333;
+    }
+
+    .order p {
+        margin-bottom: 1.5rem;
+        font-size: 1rem;
+        color: #555;
+    }
+
+.button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+    .button:hover {
+        background-color: #43a047;
+        transform: scale(1.05);
+    }
