@@ -5,7 +5,7 @@ const Menu = () => {
     return (
         <div className={styles.menu}>
             <h2>Our Menu</h2>
-            <p>Discover a variety of dishes crafted with passion and expertise. From classic favorites to new flavors, there’s something for everyone.</p>
+            <p>Discover a variety of dishes crafted with passion and expertise. From classic favorites to new flavors, there is something for everyone.</p>
             <ul>
                 <li>Margherita Pizza - Fresh basil & mozzarella</li>
                 <li>Spaghetti Carbonara - Creamy sauce with pancetta</li>
